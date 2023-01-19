@@ -5,7 +5,7 @@
 * Note: this study was done a while ago. Some things could be done differently. We are always learning and improving. It remains as a record of my evolution process.. :-)
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Objectives and results](#Objectives-and-results)
 * [Setup](#setup)
