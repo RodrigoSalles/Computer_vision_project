@@ -18,7 +18,7 @@
 
 
 ## General Information
-- Provide general information about your project here.
+- This small study is associated with an article published on the blog [brdata](https://medium.com/brdata). The article can be found [here](https://medium.com/brdata/applied-computer-vision-reading-water-consumption-meters-3e4064e961a4).
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
