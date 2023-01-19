@@ -32,11 +32,11 @@
 
 ## Objectives and results
 * Objetives
-<img src="Figures/f2.png"  width="800" height="300">
+<img src="Figures/f2.png"  width="400" height="400">
 
 * Results
-<img src="Figures/f1.png"  width="800" height="300">
-<img src="Figures/f3.png"  width="800" height="300">
+<img src="Figures/f1.png"  width="400" height="400">
+<img src="Figures/f3.png"  width="400" height="300">
 
 
 ## Setup
