@@ -36,7 +36,7 @@
 
 * Results
 <img src="Figures/f1.png"  width="400" height="400">
-<img src="Figures/f3.png"  width="400" height="300">
+<img src="Figures/f3.png"  width="400" height="200">
 
 
 ## Setup
