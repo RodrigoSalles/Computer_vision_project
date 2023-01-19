@@ -7,7 +7,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
+* [Objectives and results](#Objectives-and-results)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -30,9 +30,13 @@
 - Google Colaboratory
 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+## Objectives and results
+* Objetives
+<img src="Figures/f2.png"  width="800" height="300">
+
+* Results
+<img src="Figures/f1.png"  width="800" height="300">
+<img src="Figures/f3.png"  width="800" height="300">
 
 
 ## Setup
