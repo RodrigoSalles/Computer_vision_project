@@ -9,7 +9,6 @@
 * [Technologies Used](#technologies-used)
 * [Objectives and results](#Objectives-and-results)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -40,43 +39,27 @@
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+* To run the notebook just have Python and Jupyter Notebook installed.
+* To facilitate the understanding of the program, it is advisable to read the article that was developed from this work.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+* The project was developed as a final project for the Computational Vision discipline of the Master's Degree in Data Science at the Faculty of Sciences of the University of Porto. Despite presenting numerous possibilities for improvement, the project is closed.
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+* Phases two and three could be implemented with other YOLO networks.
+* More images could be used for training and testing, with different inclinations and lighting.
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+* [FCUP](https://sigarra.up.pt/fcup/pt/web_page.inicial)
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Rodrigo Salles. Email: engenharia.salles@gmail.com 
+
+...feel free to contact me!
 
 
 <!-- Optional -->
