@@ -2,11 +2,11 @@
 * This small project analyzes the application of computer vision techniques to the reading of water consumption meters.
 * Nowadays many companies accept that electricity and water consumption readings be sent through a photo of the meters. That way the company is easily faced with thousands of images that need to be processed.
 * This small project aims to analyze techniques that would make it possible to automate this process.
+* Note: this study was done a while ago. Some things could be done differently. We are always learning and improving. It remains as a record of my evolution process.. :-)
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -19,23 +19,15 @@
 
 ## General Information
 - This small study is associated with an article published on the blog [brdata](https://medium.com/brdata). The article can be found [here](https://medium.com/brdata/applied-computer-vision-reading-water-consumption-meters-3e4064e961a4).
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- The objective of this work is to use Machine Learning techniques to read water consumption meters
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Python - version 3.8.8
+- Keras - version 2.6.0
+- TensorFlow - version 2.6.0
+- YOLOv5
+- Google Colaboratory
 
 
 ## Screenshots
